@@ -1,0 +1,1 @@
+# tt99  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/etusky/tt99.gitgit push -u origin master
